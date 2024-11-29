@@ -15,3 +15,6 @@ Deployment:
 
 I deployed the app on both of my web servers by creating a new directory /var/www/html/mental_health_app, and coping the files in my both servers.
 They can be access through http://my_ip/mental_health_app
+I was able to make it accessible through my load balancer too, by editing the nginx configuartion file (/etc/nginx/sites-available/default). 
+
+As my mission is to raise awereness about mental health and destigmatize open conversations about it, this project makes sense to my current goal and mission. And it is useful to people who yearn to learn more about mental health. 
