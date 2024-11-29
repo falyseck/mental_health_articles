@@ -18,3 +18,5 @@ They can be access through http://my_ip/mental_health_app
 I was able to make it accessible through my load balancer too, by editing the nginx configuartion file (/etc/nginx/sites-available/default). 
 
 As my mission is to raise awereness about mental health and destigmatize open conversations about it, this project makes sense to my current goal and mission. And it is useful to people who yearn to learn more about mental health. 
+
+link to my api documentation: https://gnews.io/docs/v4#introduction
